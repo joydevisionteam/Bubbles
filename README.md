@@ -1,4 +1,4 @@
-# Bubbles
+# Bubbles()
 A minimal shooting game written in JavaScript and [p5.js](http://p5js.org).
 
 * Play [here](http://dfilaretti.github.io/software/bubbles)! 
